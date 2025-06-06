@@ -1,1 +1,1 @@
-# CCP
+# Cool Cursor Pack for Windows
